@@ -1,0 +1,21 @@
+body{
+    background-image: url();
+    object-fit: contain;
+    display:flex;
+    flex-direction:row-reverse  ;
+    justify-content:center;
+        align-items: center ;
+}
+.imagem{
+height: 400px;
+    width: 300px;
+}
+div{
+
+}
+.escrita{
+
+}
+h1{
+
+}
